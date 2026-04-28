@@ -52,6 +52,14 @@ button:hover{
     box-shadow: 0 0 25px #ff5454;
 }
 
+a{
+    float: right;
+    margin-top: 18px;
+    font-size: 1.1em;
+    margin-right: 10%;
+    color: #b61515;
+}
+
 
 /* Celular */
 @media (max-width: 767px){
@@ -144,7 +152,7 @@ button:hover{
     }
 
     .container{
-        margin-top: 12vh;
+        margin-top: 10vh;
         width: 50%;
     }
     

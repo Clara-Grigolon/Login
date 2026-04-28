@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import './App.css'
 import logo from './assets/lego-logo.webp'
 
